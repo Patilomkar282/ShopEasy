@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Apni Dukaan <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/microsoft/209/shopping-trolley_1f6d2.png" width="50" height="50" />
 
 Shopping! Who hate shopping? Everyone wants to get their hands on latest fashion trends and smartest new gadgets.
@@ -211,3 +212,6 @@ git push -u origin <your_branch_name>
 <a href="https://github.com/QAZIMAAZARSHAD/Apni-Dukaan/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=QAZIMAAZARSHAD/Apni-Dukaan" />
 </a>
+=======
+# ShopEasy
+>>>>>>> 938bac7939ad87e34982e9fd6538b28da4ebed41
